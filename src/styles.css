@@ -1,0 +1,17 @@
+body{
+    /*Centra los elementos mas facil*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Assistant', sans-serif;
+}
+#buttonDone{
+    font-family: 'Assistant', sans-serif;
+    background-color: rgb(172, 150, 233);
+    
+}
+legend{
+    text-align: center;
+}
